@@ -1,4 +1,4 @@
 ### Hi, I'm Misha and I am 12 years old programmer
 
-[![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code_Ryzen&theme=dark&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
+[![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code_Ryzen&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
