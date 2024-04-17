@@ -1,13 +1,13 @@
 ### Hi, I'm Misha and I am 12 years old programmer
 
 ![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeRyzen&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Misha's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeRyzen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)
+![Misha's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeRyzen&theme=dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" />        
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
