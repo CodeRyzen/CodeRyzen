@@ -37,6 +37,8 @@
   <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
-  <a href="https://www.youtube.com/channel/UCUyjayOjkNaAYQXJJsPgZGA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="40" width="40">
-  <a href="https://www.youtube.com/channel/UCUyjayOjkNaAYQXJJsPgZGA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/sololearn@2.6.2/+esm" alt="sololearn" height="40" width="40"></a>
+  <a href="https://www.youtube.com/channel/UCUyjayOjkNaAYQXJJsPgZGA"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="40" width="40">
+  <a href="https://www.sololearn.com/en/profile/18878907"><img align="center" src="https://cdn.jsdelivr.net/npm/sololearn@2.6.2/+esm" alt="sololearn" height="40" width="40"></a>
+  <a href="https://leetcode.com/CodeRyzen/"><img align="center" src="https://www.svgrepo.com/svg/517366/leetcode" alt="leetcode" height="40" width="40"></a>
+  <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="40" width="40"></a>
 </p>
