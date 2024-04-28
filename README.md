@@ -2,7 +2,7 @@
 
 ![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeRyzen&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRyzen&theme=dark&layout=compact)
-![Misha's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeRyzen&theme=dark)
+![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeRyzen)
 
 
 <h3 align="left">Languages and Tools:</h3>
