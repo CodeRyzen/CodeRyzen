@@ -22,3 +22,27 @@
   <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="40" width="40"></a>
   <a href="https://wakatime.com/@CodeRyzen"><img></a>
 </p>
+
+### What I use for studying
+<h6> W3.Schools Courses" </h6>
+  <a href="https://my-learning.w3schools.com/tutorial/html"> Learn HTML </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/css"> Learn CSS </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/w3css"> Learn W3.CSS </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/bootstrap"> Learn Bootstrap 3 </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/bootstrap4"> Learn Bootstrap 4 </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/js"> Learn JavaScript </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/cpp"> Learn C++ </a><br>
+  <a href="https://my-learning.w3schools.com/tutorial/cybersecurity"> Learn Cyber Security </a><br>
+
+<h6> Youtube: </h6>  
+  <a href="https://www.youtube.com/playlist?list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO"> Изучение HTML5 для новичков с нуля! </a><br>
+  <a href="https://www.youtube.com/watch?v=bWNmJqgri4Q"> Учим HTML за 1 час! #От Профессионала | HD Remake </a>
+
+
+
+<h6> Other Sources: </h6>
+  <a href="https://flexboxfroggy.com/#ru"> FlexboxFroggy </a>
+
+
+
