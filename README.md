@@ -2,7 +2,7 @@
 
 ![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeRyzen&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRyzen&theme=dark&layout=compact)
-![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeRyzen)
+![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeRyzen&theme=dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,4 +41,5 @@
   <a href="https://www.sololearn.com/en/profile/18878907"><img align="center" src="http://www.w3.org/2000/svg" alt="sololearn" height="40" width="40"></a>
   <a href="https://leetcode.com/CodeRyzen/"><img align="center" src="https://iconscout.com/free-icon/leetcode-3445700" alt="leetcode" height="40" width="40"></a>
   <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="40" width="40"></a>
+  [Wakatime](https://wakatime.com/@CodeRyzen)
 </p>
