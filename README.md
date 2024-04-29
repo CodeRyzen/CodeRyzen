@@ -20,7 +20,7 @@
   <a href="https://www.sololearn.com/en/profile/18878907"><img align="center" src="http://www.w3.org/2000/svg" alt="sololearn" height="40" width="40"></a>
   <a href="https://leetcode.com/CodeRyzen/"><img align="center" src="https://iconscout.com/free-icon/leetcode-3445700" alt="leetcode" height="40" width="40"></a>
   <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="40" width="40"></a>
-  <a href="https://wakatime.com/@CodeRyzen"><img></a>
+  <a href="https://wakatime.com/@CodeRyzen"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwakatime.com%2Fgoland&psig=AOvVaw1iYsQOLOgxgBqL-ponfVJD&ust=1714496137874000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjwnP3x54UDFQAAAAAdAAAAABAE"></a>
 </p>
 
 ### What I use for studying
