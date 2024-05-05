@@ -20,9 +20,15 @@
   <a href="https://wakatime.com/@CodeRyzen"><img align="center" src="wakatime.png" alt="wakatime" height="40" width="40"></a>
 </p>
 
-### What I use for studying
-<h5> Web Development: </h5>
-  <a href="https://www.sololearn.com/en/learn/courses/web-development"> Web Development (SL) </a>
+<details>
+  <summary>
+    <strong>What I use for studying</strong>
+  </summary>
+  <details>
+    <summary>
+      <h3> Web Development: </h3>
+    </summary>
+    <a href="https://www.sololearn.com/en/learn/courses/web-development"> Web Development (SL) </a>
   <h6> HTML: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/html"> Learn HTML (W3S) </a><br>
     <a href="https://www.youtube.com/playlist?list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO"> Изучение HTML5 для новичков с нуля! </a><br>
@@ -31,37 +37,37 @@
     <a href="https://www.youtube.com/watch?v=XYgcNVwHUdg"> Учим HTML5 Canvas за 30 минут! </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/html-introduction"> Introducion to HTML (SL) </a> <a href="https://www.sololearn.com/certificates/CC-7YV3WQGY"> Certificate </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/le-html"> HTML (SL) </a> <a href="https://www.sololearn.com/certificates/CT-ZJBBHQH1"> Certificate </a><br>
-  
+    
   <h6> CSS: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/css"> Learn CSS (W3S) </a><br>
     <a href="https://my-learning.w3schools.com/tutorial/w3css"> Learn W3.CSS (W3S) </a><br>
     <a href="https://www.youtube.com/watch?v=iPV5GKeHyV4"> Учим CSS за 1 час! #От Профессионала </a><br>
     <a href="https://flexboxfroggy.com/#ru"> FlexboxFroggy </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/le-css"> CSS (SL) </a> <a href="https://www.sololearn.com/certificates/CT-MLKWCY37"> Certificate </a><br>
-  
+    
   <h6> Bootstrap: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/bootstrap"> Learn Bootstrap 3 (W3S) </a><br>
-    <a href="https://my-learning.w3schools.com/tutorial/bootstrap4"> Learn Bootstrap 4 (W3S) </a><br>
+    <a href="https://my-learning.w3schools.com/tutorial/bootstrap4"> Learn Bootstrap 4 (W3S) </a><br>   
     
-  
   <h6> JavaScript: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/js"> Learn JavaScript (W3S) </a><br>
     <a href="https://www.youtube.com/watch?v=KmTK8kub_gw"> Учим JavaScript/jQuery за 1 час! #От Профессионала </a><br>
-
-<h5> Python: </h5>
-  <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
-  <a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
-  <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>
-  <a href="https://www.sololearn.com/en/learn/courses/le-python"> Python Core </a><br>
-
-<h5> C++: </h5>
-  <a href="https://my-learning.w3schools.com/tutorial/cpp"> Learn C++ W3S </a><br>
-
-<h5> Computer Science </h5>
+    
+  </details>
   
-
-<h5> Cyber Security: </h5>
-  <a href="https://my-learning.w3schools.com/tutorial/cybersecurity"> Learn Cyber Security W3S </a><br>
-
-
+  <h5> Python: </h5>
+    <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
+    <a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
+    <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>
+    <a href="https://www.sololearn.com/en/learn/courses/le-python"> Python Core </a><br>
+  
+  <h5> C++: </h5>
+    <a href="https://my-learning.w3schools.com/tutorial/cpp"> Learn C++ W3S </a><br>
+  
+  <h5> Computer Science </h5>
+    
+  
+  <h5> Cyber Security: </h5>
+    <a href="https://my-learning.w3schools.com/tutorial/cybersecurity"> Learn Cyber Security W3S </a><br>
+</details>
 
