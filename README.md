@@ -5,8 +5,8 @@
 
 ### My Skills:
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" title="HTML5" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" title="Bootstrap" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -17,26 +17,26 @@
 </div>
 
 ### Links:
-<p align="left">
+<p align="center">
   <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
-  <a href="https://www.youtube.com/channel/UCUyjayOjkNaAYQXJJsPgZGA"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="40" width="40"></a>
-  <a href="https://www.sololearn.com/en/profile/18878907"><img align="center" src="sololearn.png" alt="sololearn" height="40" width="40"></a>
-  <a href="https://leetcode.com/CodeRyzen/"><img align="center" src="leetcode.png" alt="leetcode" height="40" width="40"></a>
-  <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="40" width="40"></a>
-  <a href="https://wakatime.com/@CodeRyzen"><img align="center" src="wakatime.png" alt="wakatime" height="40" width="40"></a>
+  <a href="https://www.youtube.com/channel/UCUyjayOjkNaAYQXJJsPgZGA"><img style="margin: 10px" align="center" title="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="50" width="50"></a>
+  <a href="https://www.sololearn.com/en/profile/18878907"><img style="margin: 10px" align="center" title="Sololearn" src="pngs/sololearn.webp" alt="sololearn" height="50" width="50"></a>
+  <a href="https://leetcode.com/CodeRyzen/"><img align="center" style="margin: 10px" src="pngs/leetcode.png" alt="leetcode" height="50" width="50"></a>
+  <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" style="margin: 10px" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="50" width="50"></a>
+  <a href="https://wakatime.com/@CodeRyzen"><img align="center" style="margin: 10px" src="pngs/wakatime" alt="wakatime" height="50" width="50"></a>
 </p>
 
 <details>
   <summary>
-    <strong>What I use for studying</strong>
+    <h3>What I use for studying</h3>
   </summary>
   <details>
-    <summary>
-      <h3> Web Development: </h3>
-    </summary>
-    <a href="https://www.sololearn.com/en/learn/courses/web-development"> Web Development (SL) </a>
+  <summary>
+    <h4> Frontend: </h4>
+  </summary>
+  <a href="https://www.sololearn.com/en/learn/courses/web-development"> Web Development (SL) </a><br>
   <h6> HTML: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/html"> Learn HTML (W3S) </a><br>
     <a href="https://www.youtube.com/playlist?list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO"> Изучение HTML5 для новичков с нуля! </a><br>
@@ -60,22 +60,30 @@
   <h6> JavaScript: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/js"> Learn JavaScript (W3S) </a><br>
     <a href="https://www.youtube.com/watch?v=KmTK8kub_gw"> Учим JavaScript/jQuery за 1 час! #От Профессионала </a><br>
-    
   </details>
-  
-  <h5> Python: </h5>
-    <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
-    <a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
-    <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>
-    <a href="https://www.sololearn.com/en/learn/courses/le-python"> Python Core </a><br>
-  
-  <h5> C++: </h5>
-    <a href="https://my-learning.w3schools.com/tutorial/cpp"> Learn C++ W3S </a><br>
-  
-  <h5> Computer Science </h5>
-    
-  
-  <h5> Cyber Security: </h5>
-    <a href="https://my-learning.w3schools.com/tutorial/cybersecurity"> Learn Cyber Security W3S </a><br>
+
+  <details>
+    <summary><h5> Python: </h5></summary>
+      <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
+      <a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
+      <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>
+      <a href="https://www.sololearn.com/en/learn/courses/le-python"> Python Core (SL) </a><br>
+  </details>
+
+  <details>
+    <summary><h5> C++: </h5></summary>
+      <a href="https://my-learning.w3schools.com/tutorial/cpp"> Learn C++ (W3S) </a><br>
+      <a href="https://www.sololearn.com/en/learn/courses/c-plus-plus-intermediate"> C++ Intermidate (SL) </a>
+  </details>
+
+  <details>
+    <summary><h5> Computer Science: </h5></summary>
+      <a href="https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5"> CS50 Course </a>
+  </details>
+
+  <details>
+    <summary><h5> Cyber Security: </h5></summary>
+      <a href="https://my-learning.w3schools.com/tutorial/cybersecurity"> Learn Cyber Security (W3S) </a><br>
+  </details>
 </details>
 
