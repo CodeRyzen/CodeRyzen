@@ -46,6 +46,7 @@
     <a href="https://www.youtube.com/watch?v=5pBcKKiZSGE"> Учим HTML за 1 час! #От Профессионала </a><br>
     <a href="https://www.youtube.com/watch?v=bWNmJqgri4Q"> Учим HTML за 1 час! #От Профессионала | HD Remake </a><br>
     <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY&list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn"> Учим Html за 35 минут для начинающих </a>-->
+    <a href="https://www.youtube.com/playlist?list=PLdw5Wr8bvbWSo7qvdRNuIfOYKjYekyRLm"> HTML </a>
     <a href="https://www.youtube.com/watch?v=XYgcNVwHUdg"> Учим HTML5 Canvas за 30 минут! </a><br>
     <a href="https://www.youtube.com/watch?v=W4MIiV4nZDY"> HTML - Полный Курс HTML Для Начинающих [3 ЧАСА] </a>
     <a href="https://www.sololearn.com/en/learn/courses/html-introduction"> Introducion to HTML (SL) </a> <a href="https://www.sololearn.com/certificates/CC-7YV3WQGY"> Certificate </a><br>
