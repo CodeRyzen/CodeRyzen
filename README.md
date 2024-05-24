@@ -42,10 +42,10 @@
   <a href="https://www.sololearn.com/en/learn/courses/angular-developer"> Front-end for Beginners </a><br>
   <h6> HTML: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/html"> Learn HTML (W3S) </a><br>
-    <a href="https://www.youtube.com/playlist?list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO"> Изучение HTML5 для новичков с нуля! </a><br>
+    <!--<a href="https://www.youtube.com/playlist?list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO"> Изучение HTML5 для новичков с нуля! </a><br>
     <a href="https://www.youtube.com/watch?v=5pBcKKiZSGE"> Учим HTML за 1 час! #От Профессионала </a><br>
     <a href="https://www.youtube.com/watch?v=bWNmJqgri4Q"> Учим HTML за 1 час! #От Профессионала | HD Remake </a><br>
-    <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY&list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn"> Учим Html за 35 минут для начинающих </a>
+    <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY&list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn"> Учим Html за 35 минут для начинающих </a>-->
     <a href="https://www.youtube.com/watch?v=XYgcNVwHUdg"> Учим HTML5 Canvas за 30 минут! </a><br>
     <a href="https://www.youtube.com/watch?v=W4MIiV4nZDY"> HTML - Полный Курс HTML Для Начинающих [3 ЧАСА] </a>
     <a href="https://www.sololearn.com/en/learn/courses/html-introduction"> Introducion to HTML (SL) </a> <a href="https://www.sololearn.com/certificates/CC-7YV3WQGY"> Certificate </a><br>
@@ -54,9 +54,9 @@
   <h6> CSS: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/css"> Learn CSS (W3S) </a><br>
     <a href="https://my-learning.w3schools.com/tutorial/w3css"> Learn W3.CSS (W3S) </a><br>
-    <a href="https://www.youtube.com/watch?v=GoBvYPwv-g8&list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn&index=2"> Учим CSS за 40 минут для начинающих </a>
+    <!--<a href="https://www.youtube.com/watch?v=GoBvYPwv-g8&list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn&index=2"> Учим CSS за 40 минут для начинающих </a>
     <a href="https://www.youtube.com/watch?v=iPV5GKeHyV4"> Учим CSS за 1 час! #От Профессионала </a><br>
-    <a href="https://flexboxfroggy.com/#ru"> FlexboxFroggy </a><br>
+    <a href="https://flexboxfroggy.com/#ru"> FlexboxFroggy </a><br>-->
     <a href="https://www.sololearn.com/en/learn/courses/le-css"> CSS (SL) </a> <a href="https://www.sololearn.com/certificates/CT-MLKWCY37"> Certificate </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/css-introduction"> CSS Introduction (SL) </a><br>
     
@@ -75,8 +75,8 @@
   <details>
     <summary><h5> Python: </h5></summary>
       <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
-      <a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
-      <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>
+      <!--<a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
+      <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>-->
       <a href="https://www.sololearn.com/en/learn/courses/le-python"> Python Core (SL) </a><br>
       <a href="https://www.sololearn.com/en/learn/courses/python-developer"> Python Developer (SL) </a><br>
       <a href="https://www.sololearn.com/en/learn/courses/le-python-for-beginners"> Python for Beginners (SL) </a><br>
