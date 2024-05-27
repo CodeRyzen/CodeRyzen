@@ -67,7 +67,7 @@
     
   <h6> JavaScript: </h6>
     <a href="https://my-learning.w3schools.com/tutorial/js"> Learn JavaScript (W3S) </a><br>
-    <a href="https://www.youtube.com/watch?v=KmTK8kub_gw"> Учим JavaScript/jQuery за 1 час! #От Профессионала </a><br>
+    <!--<a href="https://www.youtube.com/watch?v=KmTK8kub_gw"> Учим JavaScript/jQuery за 1 час! #От Профессионала </a><br>-->
     <a href="https://www.sololearn.com/en/learn/courses/javascript-introduction"> Javascript Introduction </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/le-javascript"> JavaScript (SL) </a><br>
   </details>
@@ -82,6 +82,11 @@
       <a href="https://www.sololearn.com/en/learn/courses/python-developer"> Python Developer (SL) </a><br>
       <a href="https://www.sololearn.com/en/learn/courses/le-python-for-beginners"> Python for Beginners (SL) </a><br>
       <a href="https://www.sololearn.com/en/learn/courses/coding-foundations"> Coding Foundations (SL) </a><br>
+      <а href="https://www.youtube.com/watch?v=wDmPgXhlDIg"> Python — полный курс для начинающих. </а>
+    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOK89Uu3yIEihN1KQ_LfXtjB"> AIOGRAM 2 - ПОЛНЫЙ КУРС </а>
+      <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOJ31X9eBWLIZJ4OVjBwb-KM"> AIOGRAM 3 — ПОЛНЫЙ КУРС </а>
+      <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOISm0bY1MIx5wCEtzgcQWNM"> Python Pro - Fast Course </а>
+      <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOIp6VeSEF0efeU-1WchWzYs"> ООП Python </а>
   </details>
 
   <details>
