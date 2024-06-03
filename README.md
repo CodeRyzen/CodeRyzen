@@ -72,6 +72,7 @@
     <!--<a href="https://www.youtube.com/watch?v=KmTK8kub_gw"> Учим JavaScript/jQuery за 1 час! #От Профессионала </a><br>-->
     <a href="https://www.sololearn.com/en/learn/courses/javascript-introduction"> Javascript Introduction </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/le-javascript"> JavaScript (SL) </a><br>
+    <a href="https://www.youtube.com/watch?v=HuPK6AwgzJc"> Javascript с нуля - твой быстрый старт! </a>
   </details>
   </details>
 
