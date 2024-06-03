@@ -75,18 +75,18 @@
 
   <details>
     <summary><h5> Python: </h5></summary>
-      <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
-      <!--<a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
-      <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>-->
-      <a href="https://www.sololearn.com/en/learn/courses/le-python"> Python Core (SL) </a><br>
-      <a href="https://www.sololearn.com/en/learn/courses/python-developer"> Python Developer (SL) </a><br>
-      <a href="https://www.sololearn.com/en/learn/courses/le-python-for-beginners"> Python for Beginners (SL) </a><br>
-      <a href="https://www.sololearn.com/en/learn/courses/coding-foundations"> Coding Foundations (SL) </a><br>
-      <а href="https://www.youtube.com/watch?v=wDmPgXhlDIg"> Python — полный курс для начинающих. </а>
-    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOK89Uu3yIEihN1KQ_LfXtjB"> AIOGRAM 2 - ПОЛНЫЙ КУРС </а>
-      <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOJ31X9eBWLIZJ4OVjBwb-KM"> AIOGRAM 3 — ПОЛНЫЙ КУРС </а>
-      <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOISm0bY1MIx5wCEtzgcQWNM"> Python Pro - Fast Course </а>
-      <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOIp6VeSEF0efeU-1WchWzYs"> ООП Python </а>
+    <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
+    <!--<a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
+    <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>-->
+    <a href="https://www.sololearn.com/en/learn/courses/le-python"> Python Core (SL) </a><br>
+    <a href="https://www.sololearn.com/en/learn/courses/python-developer"> Python Developer (SL) </a><br>
+    <a href="https://www.sololearn.com/en/learn/courses/le-python-for-beginners"> Python for Beginners (SL) </a><br>
+    <a href="https://www.sololearn.com/en/learn/courses/coding-foundations"> Coding Foundations (SL) </a><br>
+    <а href="https://www.youtube.com/watch?v=wDmPgXhlDIg"> Python — полный курс для начинающих. </а><br>
+    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOK89Uu3yIEihN1KQ_LfXtjB"> AIOGRAM 2 - ПОЛНЫЙ КУРС </а><br>
+    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOJ31X9eBWLIZJ4OVjBwb-KM"> AIOGRAM 3 — ПОЛНЫЙ КУРС </а><br>
+    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOISm0bY1MIx5wCEtzgcQWNM"> Python Pro - Fast Course </а><br>
+    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOIp6VeSEF0efeU-1WchWzYs"> ООП Python </а><br>
   </details>
 
   <details>
