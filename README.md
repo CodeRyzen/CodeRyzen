@@ -27,7 +27,8 @@
   <a href="https://www.sololearn.com/en/profile/18878907"><img style="margin: 10px" align="center" title="Sololearn" src="pngs/sololearn.webp" alt="sololearn" height="50" width="50"></a>
   <a href="https://leetcode.com/CodeRyzen/"><img align="center" style="margin: 10px" src="pngs/leetcode.png" alt="leetcode" height="50" width="50"></a>
   <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" style="margin: 10px" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="50" width="50"></a>
-  <a href="https://wakatime.com/@CodeRyzen"><img align="center" style="margin: 10px" src="pngs/wakatime" alt="wakatime" height="50" width="50"></a>
+  <a href="https://wakatime.com/@CodeRyzen"><img align="center" style="margin: 10px" src="pngs/wakatime" alt="wakatime" height="50"></a>
+  <a href="https://ru.duolingo.com/profile/tPSV17"><img align="center" style="margin: 10px" src="pngs/duolingo.svg" alt="duolingo" height="50"></a>
 </p>
 
 <details>
@@ -79,6 +80,11 @@
 
   <details>
     <summary><h5> Python: </h5></summary>
+    <a href="https://www.youtube.com/watch?v=wDmPgXhlDIg"> Python — полный курс для начинающих. </a><br>
+    <a href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOK89Uu3yIEihN1KQ_LfXtjB"> AIOGRAM 2 - ПОЛНЫЙ КУРС </a><br>
+    <a href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOJ31X9eBWLIZJ4OVjBwb-KM"> AIOGRAM 3 — ПОЛНЫЙ КУРС </a><br>
+    <a href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOISm0bY1MIx5wCEtzgcQWNM"> Python Pro - Fast Course </a><br>
+    <a href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOIp6VeSEF0efeU-1WchWzYs"> ООП Python </a><br>
     <a href="https://my-learning.w3schools.com/tutorial/python"> Learn Python (W3S) </a><br>
     <!--<a href="https://www.youtube.com/watch?v=fp5-XQFr_nk"> Учим Python за 1 час! #От Профессионала </a><br>
     <a href="https://www.youtube.com/watch?v=P0czP5MEbYQ"> Учим Python за 1 час! #ОтПрофессионала | HD Remake </a><br>-->
@@ -86,11 +92,7 @@
     <a href="https://www.sololearn.com/en/learn/courses/python-developer"> Python Developer (SL) </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/le-python-for-beginners"> Python for Beginners (SL) </a><br>
     <a href="https://www.sololearn.com/en/learn/courses/coding-foundations"> Coding Foundations (SL) </a><br>
-    <а href="https://www.youtube.com/watch?v=wDmPgXhlDIg"> Python — полный курс для начинающих. </а><br>
-    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOK89Uu3yIEihN1KQ_LfXtjB"> AIOGRAM 2 - ПОЛНЫЙ КУРС </а><br>
-    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOJ31X9eBWLIZJ4OVjBwb-KM"> AIOGRAM 3 — ПОЛНЫЙ КУРС </а><br>
-    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOISm0bY1MIx5wCEtzgcQWNM"> Python Pro - Fast Course </а><br>
-    <а href="https://www.youtube.com/playlist?list=PLV0FNhq3XMOIp6VeSEF0efeU-1WchWzYs"> ООП Python </а><br>
+    <a> Алексей Васильев "Программирование на Python в примерах и задачах", Книга </a>
   </details>
 
   <details>
