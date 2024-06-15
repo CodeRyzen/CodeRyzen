@@ -28,7 +28,7 @@
   <a href="https://leetcode.com/CodeRyzen/"><img align="center" style="margin: 10px" src="pngs/leetcode.png" alt="leetcode" height="50" width="50"></a>
   <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" style="margin: 10px" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="50" width="50"></a>
   <a href="https://wakatime.com/@CodeRyzen"><img align="center" style="margin: 10px" src="pngs/wakatime" alt="wakatime" height="50"></a>
-  <a href="https://ru.duolingo.com/profile/tPSV17"><img align="center" style="margin: 10px" src="pngs/duolingo.svg" alt="duolingo" height="50"></a>
+  <a href="https://ru.duolingo.com/profile/tPSV17"><img align="center" style="margin: 10px" src="pngs/duolingo" alt="duolingo" height="50"></a>
 </p>
 
 <details>
