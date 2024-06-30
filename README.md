@@ -23,12 +23,12 @@
   <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
-  <a href="https://www.youtube.com/channel/UCUyjayOjkNaAYQXJJsPgZGA"><img style="margin: 10px" align="center" title="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="50"></a>
-  <a href="https://www.sololearn.com/en/profile/18878907"><img style="margin: 10px" align="center" title="Sololearn" src="pngs/sololearn.webp" alt="sololearn" height="50"></a>
-  <a href="https://leetcode.com/CodeRyzen/"><img align="center" style="margin: 10px" src="pngs/leetcode.png" alt="leetcode" height="50" width="50"></a>
-  <a href="https://www.codewars.com/users/CodeRyzen"><img align="center" style="margin: 10px" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="50"></a>
-  <a href="https://wakatime.com/@CodeRyzen"><img align="center" style="margin: 10px" src="pngs/wakatime" alt="wakatime" height="50"></a>
-  <a href="https://www.duolingo.com/profile/tPSV17"><img align="center" style="margin: 10px" src="https://design.duolingo.com/7d3b95abf67001cde6ea.svg" alt="duolingo" height="50"></a>
+  <a href="https://www.youtube.com/channel/UCUyjayOjkNaAYQXJJsPgZGA" target="_blank"><img style="margin: 10px" align="center" title="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="50"></a>
+  <a href="https://www.sololearn.com/en/profile/18878907" target="_blank"><img style="margin: 10px" align="center" title="Sololearn" src="pngs/sololearn.webp" alt="sololearn" height="50"></a>
+  <a href="https://leetcode.com/CodeRyzen/" target="_blank"><img align="center" style="margin: 10px" src="pngs/leetcode.png" alt="leetcode" height="50" width="50"></a>
+  <a href="https://www.codewars.com/users/CodeRyzen" target="_blank"><img align="center" style="margin: 10px" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="50"></a>
+  <a href="https://wakatime.com/@CodeRyzen" target="_blank"><img align="center" style="margin: 10px" src="pngs/wakatime" alt="wakatime" height="50"></a>
+  <a href="https://www.duolingo.com/profile/tPSV17" target="_blank"><img align="center" style="margin: 10px" src="https://design.duolingo.com/7d3b95abf67001cde6ea.svg" alt="duolingo" height="50"></a>
 </p>
 
 <details>
