@@ -28,6 +28,5 @@
   <a href="https://www.sololearn.com/en/profile/18878907" target="_blank"><img style="margin: 10px" align="center" title="Sololearn" src="pngs/sololearn.webp" alt="sololearn" height="50"></a>
   <a href="https://leetcode.com/CodeRyzen/" target="_blank"><img align="center" style="margin: 10px" src="pngs/leetcode.png" alt="leetcode" height="50" width="50"></a>
   <a href="https://www.codewars.com/users/CodeRyzen" target="_blank"><img align="center" style="margin: 10px" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="codewars" height="50"></a>
-  <a href="https://wakatime.com/@CodeRyzen" target="_blank"><img align="center" style="margin: 10px" src="pngs/wakatime" alt="wakatime" height="50"></a>
   <a href="https://www.duolingo.com/profile/tPSV17" target="_blank"><img align="center" style="margin: 10px" src="https://design.duolingo.com/7d3b95abf67001cde6ea.svg" alt="duolingo" height="50"></a>
 </p>
