@@ -1,4 +1,4 @@
-### Hello Everyone, I'm Misha and I am future student of YSU!
+### Hello Everyone!!
 
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwZWFzd2h3OWJjcjQ0ZGR6d3lndXYzNXRmbzU1dDRvZjE1NjF6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 
